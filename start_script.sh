@@ -1,3 +1,3 @@
 #!/bin/sh
 
-http-server -o index.html -p 8080 -a 0.0.0.0
+http-server -o index.html --port 8080
