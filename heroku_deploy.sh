@@ -1,7 +1,5 @@
 #!/bin/sh
 
-git add --all
-git commit -m "Add heroku.yml"
-heroku git:remote -a cv-georgios-kaminiotios
-heroku stack:set container
-git push heroku master
+heroku create cv-georgios
+heroku container:push web
+heroku container:release web
