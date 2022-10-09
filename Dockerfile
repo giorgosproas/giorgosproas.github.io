@@ -1,5 +1,11 @@
-FROM node
-RUN npm install --global http-server
-WORKDIR /code
-COPY . .
-ENTRYPOINT ["http-server -o index.html --port 8080"]
+FROM ubuntu
+
+RUN apt-get update
+
+RUN apt-get install nginx -y
+
+COPY . /var/www/html/
+
+EXPOSE 80
+
+CMD ["nginx","-g","daemon off;"]
