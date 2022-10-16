@@ -1,0 +1,1 @@
+Build the image and run it on port 80
