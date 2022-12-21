@@ -1,6 +1,7 @@
 # 💫 About Me:
 Senior Software Engineer @ASML.
 
+# CV: https://giorgosproas.github.io/
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/giorgosproas) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/giorgos_kaminiotis) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/georgios-kaminiotis-9707aa105) 
